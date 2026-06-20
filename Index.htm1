@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>مسجد تکیه حسینی کبودراهنگ</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: black;
+    }
+
+    .container {
+      text-align: center;
+    }
+
+    .poster {
+      width: 100%;
+      max-width: 500px;
+    }
+
+    .buttons {
+      margin-top: -80px;
+      margin-bottom: 30px;
+    }
+
+    .btn {
+      display: inline-block;
+      width: 200px;
+      margin: 10px;
+      padding: 15px;
+      text-decoration: none;
+      border-radius: 12px;
+      font-size: 18px;
+      color: white;
+      font-weight: bold;
+    }
+
+    .insta {
+      background: linear-gradient(45deg, #e1306c, #ff7a00);
+    }
+
+    .eitaa {
+      background: linear-gradient(45deg, #27ae60, #2ecc71);
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- پوستر -->
+    <img class="poster" src="poster.jpg" alt="پوستر مسجد">
+
+    <!-- دکمه‌ها -->
+    <div class="buttons">
+      <a class="btn insta" href="https://www.instagram.com/masjed_takie_hosseiny" target="_blank">
+        📸 اینستاگرام
+      </a>
+
+      <a class="btn eitaa" href="https://eitaa.com/masjedtakye" target="_blank">
+        💬 ایتا
+      </a>
+    </div>
+
+  </div>
+
+</body>
+</html>
